@@ -39,8 +39,8 @@ Questions:
 
 #Are there any variables which is highly related to target variable?
 
-#What can of models can be used?
+#What kind of models can be used?
 
-#If all these attributes are related significantly then can we find the popularity of movie?
+#If all these attributes are related significantly, can we find the popularity of movie?
 
 
