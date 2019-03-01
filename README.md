@@ -1,8 +1,8 @@
 # Prediction-of-a-movie-popularity-Multi varaiate Analysis
 #The purpose of this project is to develop mutliple linear regression model to analyze the factors that will make a movie popular. The dataset contains the information that are extracted from IMDB for random sample movies. For popularity we are going to measure the audience_score as an output variable and the attributes will be the type of movie, genre, runtime, imdb rating, imdb number of votes, critics rating, critics score, audience rating, Oscar awards obtained (actor, actress, director and picture).
+SPAP has been uploaded for the same.
 
-
-Dataset- 
+Following is the description of the Dataset- 
 
 title_type: Type of movie (Documentary, Feature Film, TV Movie)
 
